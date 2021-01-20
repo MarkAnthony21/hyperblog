@@ -1,4 +1,22 @@
-.contenedor{
-    background: crimson;
-    margin: 20px;
+*{
+    color: white;
+}
+
+.contenedor1{
+    background:lightgreen;
+}
+
+h1{
+    padding-bottom: 30px;
+    text-align: center;
+}
+
+img{
+    width: 400px;
+}
+
+.contenedor2{
+    background:mediumaquamarine;
+    margin: 0px 50px 20px;
+    padding: 40px;
 }
