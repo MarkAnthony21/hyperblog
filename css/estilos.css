@@ -1,22 +1,42 @@
 *{
     color: white;
+    margin: 0;
+    padding: 0;
 }
 
-.contenedor1{
-    background:lightgreen;
-}
-
-h1{
-    padding-bottom: 30px;
+header{
+    padding: 30px;
     text-align: center;
+    background-color: olive;
 }
 
 img{
-    width: 400px;
+    height: 200px;
+    width: 250px;
+    margin: 20px 20px;
 }
 
-.contenedor2{
-    background:mediumaquamarine;
-    margin: 0px 50px 20px;
-    padding: 40px;
+.articulo-1{
+    background-color:mediumaquamarine;
+    width: 30%;
+    padding: 20px;
+}
+
+.articulo-2{
+    background-color: teal;
+    width: 30%;
+    padding: 20px;
+}
+
+.articulo-3{
+    background-color:slategrey ;
+    width: 30%;
+    padding: 20px;
+
+}
+
+.contenedor1{
+    background-color: darkkhaki;
+    display:flex;
+    justify-content: space-between;
 }
