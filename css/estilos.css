@@ -2,6 +2,7 @@
     color: white;
 }
 
+
 .contenedor1{
     background:lightgreen;
 }
@@ -17,6 +18,14 @@ img{
 
 .contenedor2{
     background:mediumaquamarine;
-    margin: 0px 50px 20px;
-    padding: 40px;
+    width: 50%;
+    padding: 10px;
+    margin: 0px auto 20px;
+}
+
+.pie{
+    background-color: cornflowerblue;
+    padding: 20px;
+    text-align: center;
+    font-size: 30px;
 }
